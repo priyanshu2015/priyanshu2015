@@ -1,4 +1,4 @@
-![counter](https://p_RRCgv9m.m.pipedream.net)
+<!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
 ### Hi there 👋
 
 <!--
@@ -36,9 +36,9 @@
 <br/>
 <br/>
 
-**My Github Stats:** <br/>
+**My Github Stats:** <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu2015&custom_title=Priyanshu Gupta&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="priyanshu's github stats" />
 <br/>
 <br/>
-**Languages & Tools:** <br/>
+**Languages & Tools:** <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu2015&layout=compact&theme=default" />
