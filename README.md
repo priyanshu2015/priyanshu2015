@@ -34,11 +34,9 @@
 
 <br/>
 <br/>
-<br/>
 
-**Stats:**
-[My github stats]
+**My Github Stats:** <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu2015&custom_title=Priyanshu Gupta&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="priyanshu's github stats" />
 <br/>
-**Languages & Tools:**
+**Languages & Tools:** <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu2015&layout=compact&theme=default" />
