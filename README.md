@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**priyanshu2015/priyanshu2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**priyanshu2015/priyanshu2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <br/>
 
@@ -19,6 +19,8 @@
   <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br/>
+<br/>
 
 - 🔭 I’m currently working on Self Development.
 - 🌱 I’m currently learning Cloud Computing and Full-Stack Development.
@@ -28,7 +30,6 @@
 - 📫 How to reach me: ...
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
--->
 
 
 <br/>
