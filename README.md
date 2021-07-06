@@ -15,9 +15,9 @@
   <img align="left" alt="Priyanshu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>   <a href="https://priyanshuguptaofficial.medium.com/">
   <img align="left" alt="Priyanshu's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>  <a href="https://t.me/priyanshuguptaofficial">
+<!-- </a>  <a href="https://t.me/priyanshuguptaofficial">
   <img align="left" alt="Priyanshu's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>  <a href="https://www.instagram.com/priyanshu._gupta/">
+</a> --> <a href="https://www.instagram.com/priyanshu._gupta/">
   <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
