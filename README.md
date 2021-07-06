@@ -5,7 +5,7 @@
 **priyanshu2015/priyanshu2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <br/>
-
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://www.youtube.com/channel/UCd6H8kyKg0L9GSLuIC155pw">
   <img align="left" alt="Priyanshu's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>  <a href="https://discord.gg/aqDGTQ9dFW">
@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on Django and Python.
 - 🤔 I’m looking for passionate people with common interests and goals. 
 - 💬 Ask me about Backend Development.
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://priyanshu2015.github.io/
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
 
@@ -38,3 +38,5 @@
 
 **My Github Stats + Languages & Tools** <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu2015&custom_title=Priyanshu Gupta&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="priyanshu's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu2015&layout=compact&theme=default" />
+
+[website]: https://priyanshu2015.github.io/
