@@ -24,11 +24,11 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Self Development.
-- 🌱 I’m currently learning Cloud Computing and Full-Stack Development.
-- 👯 I’m looking to collaborate on Django and Python.
-- 🤔 I’m looking for passionate people with common interests and goals. 
-- 💬 Ask me about Backend Development.
+- 🔭 I’m on the mission to simplify this over-complicated world.
+- 🌱 My interests - Backend Development, System Design, Blockchain, Defi, Building Cross-platform applications, Cloud Computing and AI.
+- 💟 I love to design, architect and develop impactful and robust software which aims to solve real-world problems.
+- 👯 I’m looking for passionate people with common interests and goals. 
+- 💯 I help people achieve their goals with impactful mentorship and techniques.
 - 📫 How to reach me: https://priyanshu2015.github.io/
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
