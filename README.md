@@ -25,7 +25,7 @@
 <br/>
 
 - 🔭 I’m on the mission to simplify this over-complicated world.
-- 🌱 My interests - Backend Development, System Design, Blockchain, Defi, Building Cross-platform applications, Cloud Computing and AI.
+- 🌱 My interests - Backend Development, System Design, Blockchain, Defi, Building Cross-platform applications, Cloud & AI.
 - 💟 I love to design, architect and develop impactful and robust software which aims to solve real-world problems.
 - 👯 I’m looking for passionate people with common interests and goals. 
 - 💯 I help people achieve their goals with impactful mentorship and techniques.
