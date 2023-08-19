@@ -38,7 +38,7 @@
 <br/>
 
 **My Github Stats + Languages & Tools** <br/><br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu2015)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu2015&show_icons=true&theme=transparent)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu2015&layout=compact&theme=default" />
 
