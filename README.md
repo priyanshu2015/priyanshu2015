@@ -1,5 +1,5 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
-### Hi there 👋
+### Hi there, I'm Priyanshu 👋
 
 <!--
 **priyanshu2015/priyanshu2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -35,6 +35,7 @@
 
 <br/>
 
+## 📈 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu2015&show_icons=true&theme=transparent&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu2015&show_icons=true&theme=transparent&layout=donut)
