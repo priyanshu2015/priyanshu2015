@@ -26,6 +26,7 @@
 -->
 <br/>
 
+## 👨‍💻 About Me
 - 🔭 I’m on a mission to simplify this over-complicated world.
 - 🌱 My interests - Product Design, Backend Development, System Design, Blockchain, Defi, Building Cross-platform applications, Infrastructure, Cloud & AI.
 - 💟 I love to design, architect and develop impactful and robust products which aim to solve real-world problems.
@@ -36,6 +37,13 @@
 <!--- ⚡ Fun fact: ... -->
 
 <br/>
+
+## 💼 Technical Skills
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 📈 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu2015&show_icons=true&theme=transparent&rank_icon=github)
