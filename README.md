@@ -1,5 +1,7 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
-### Hi there, I'm Priyanshu 👋
+<h3 align="center">
+Hi there, I'm Priyanshu 👋
+</h3>
 <!--
 **priyanshu2015/priyanshu2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
