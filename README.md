@@ -23,7 +23,6 @@
 
 <br/>
 -->
-<br/>
 
 ## 👨‍💻 About Me
 - 🔭 I’m on a mission to simplify this over-complicated world.
