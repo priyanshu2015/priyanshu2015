@@ -32,7 +32,7 @@ Hi there, I'm Priyanshu 👋
 - 💟 I love to design, architect and develop impactful and robust products which aim to solve real-world problems.
 - 👯 I’m looking for passionate people with common interests and goals. 
 - 💯 I help people achieve their goals with impactful mentorship and techniques.
-- 📫 How to reach me: [https://priyanshuofcl.com](https://priyanshu2015.github.io/)
+- 📫 How to reach me: [https://priyanshu2015.github.io](https://priyanshu2015.github.io/)
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
 
