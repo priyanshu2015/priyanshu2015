@@ -13,7 +13,7 @@ Hi there, I'm Priyanshu 👋
   <img align="left" alt="Priyanshu's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>  <a href="https://discord.gg/aqDGTQ9dFW">
   <img align="left" alt="Priyanshu's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>  <a href="https://www.linkedin.com/in/priyanshuguptaofficial/">
+</a>  <a href="https://www.linkedin.com/in/priyanshuofcl/">
   <img align="left" alt="Priyanshu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>   <a href="https://priyanshuguptaofficial.medium.com/">
   <img align="left" alt="Priyanshu's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -32,7 +32,7 @@ Hi there, I'm Priyanshu 👋
 - 💟 I love to design, architect and develop impactful and robust products which aim to solve real-world problems.
 - 👯 I’m looking for passionate people with common interests and goals. 
 - 💯 I help people achieve their goals with impactful mentorship and techniques.
-- 📫 How to reach me: https://priyanshuofcl.com
+- 📫 How to reach me: [https://priyanshuofcl.com](https://priyanshu2015.github.io/)
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
 
